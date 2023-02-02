@@ -1,0 +1,45 @@
+wrapper {
+      display: flex;
+  }
+ 
+  .stick {
+      height: 450px;
+      width: 10px;
+      background: black;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+  }
+ 
+  .flag {
+      width: 270px;
+      height: 180px;
+      box-shadow: 0px 0px 90px 1px #989;
+      background-color: transparent;
+      position: relative;
+  }
+ 
+  .top {
+      height: 60px;
+      background-color: #ff9933
+  }
+ 
+  .middle {
+      height: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+ 
+  .bottom {
+      height: 60px;
+      background-color: green
+  }
+ 
+  .wheel {
+      height: 43px;
+      width: 43px;
+      border: 1px solid darkblue;
+      border-radius: 45px;
+      position: relative;
+      margin: 0 auto
