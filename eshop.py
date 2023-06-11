@@ -2074,12 +2074,9 @@ def Cancel():
 def about():
 
     print('----------------------------Developers---------------------------:')
-    print("Shivam Kumar")
+   
     print("Tejas")
-    print("Govind")
-    print("Ranjeet")
-    print("Shivam Sharma")
-    print("Jyoti singh")
+    print("Prachi")
     print('Thank you for visiting!!')
 
 def see():
