@@ -61,4 +61,4 @@ If you find any bugs or issues with the program, feel free to create a pull requ
 
 ## Credits
 
-This program was written by a developer @tejasmishr.
+This program was written by a developer @tejasmishr & prachi 
