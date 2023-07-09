@@ -1,4 +1,4 @@
-# Adiham Shopping
+#  Adiham Shopping
 
 This is a Python program that allows users to sign up and log in to an e-commerce website named Adiham Shopping. The program uses a MySQL database to store user information and order details.
 
